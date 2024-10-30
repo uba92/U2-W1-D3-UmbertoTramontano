@@ -1,0 +1,23 @@
+aside {
+  font-family: sans-serif;
+  max-width: 320px;
+  color: #612406;
+  height: 700px;
+  background-color: #fbf7e3;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 50px;
+  margin: 2em;
+}
+
+aside img {
+  width: 100%;
+}
+
+.aside-text h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 2em;
+}

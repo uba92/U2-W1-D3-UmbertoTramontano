@@ -1,17 +1,16 @@
 nav {
   background-color: #fef7e2;
   width: 60%;
-  min-width: 320px;
+  min-width: 300px;
   min-height: 160px;
   border-radius: 100px;
   font-family: sans-serif;
-  display: flex;
-  align-items: center;
   flex-wrap: wrap;
   padding: 20px;
   box-sizing: border-box;
   color: #612406;
   text-align: center;
+  margin: 2em;
 }
 
 nav ul li img {
